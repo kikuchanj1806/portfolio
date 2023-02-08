@@ -13,6 +13,7 @@
     "react-github-calendar": "^3.4.0",
     "react-icons": "^4.7.1",
     "react-parallax-tilt": "^1.7.78",
+    "react-pdf": "^6.2.2",
     "react-router-dom": "^6.6.0",
     "react-scripts": "5.0.1",
     "react-tsparticles": "^2.6.0",
@@ -44,4 +45,3 @@
     ]
   }
 }
-

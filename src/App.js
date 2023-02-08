@@ -17,6 +17,9 @@ import './style.css';
 import ScrollToTop from './components/ScrollToTop';
 import 'bootstrap/dist/css/bootstrap.css';
 import About from './components/About/About';
+import Projects from './components/Projects/Projects';
+import Resume from './components/Resume/ResumeNew';
+
 
 
 function App() {
@@ -36,6 +39,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
+          <Route path="/project" element={<Projects />} />
+          <Route path="/resume" element={<Resume />} />
         </Routes>
         <Footer />
       </div>

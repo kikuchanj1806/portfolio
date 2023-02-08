@@ -65,7 +65,7 @@ function About() {
                 </Row>
                 <h1 className="project-heading">
                     Professional
-                    <strong class="purple">Skillset </strong>
+                    <strong className="purple">Skillset </strong>
                 </h1>
                 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
                     <Col className="tech-icons" md={2} xs={4}>
@@ -98,7 +98,7 @@ function About() {
                 </Row>
                 <h1 className="project-heading">
                     Tools
-                    <strong class="purple">I use </strong>
+                    <strong className="purple">I use </strong>
                 </h1>
                 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
                     <Col xs={4} md={2} className="tech-icons">
@@ -120,7 +120,7 @@ function About() {
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                     <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
                         Days I
-                        <strong class="purple">Code</strong>
+                        <strong className="purple">Code</strong>
                     </h1>
                     <GitHubCalendar
                         username="kikuchanj1806"
